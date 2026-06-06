@@ -168,8 +168,7 @@ Exercise-Posture-Classification/
 │   ├── accuracy_curve.pdf
 │   ├── loss_curve.pdf
 │   ├── gradcam.pdf
-│
-└── demo_images/
+
 ```
 
 ---
