@@ -159,8 +159,6 @@ Exercise-Posture-Classification/
 │
 ├── exercise_posture_best_model.h5
 │
-├── exercise_posture_custom_cnn.keras
-│
 ├── class_names.json
 │
 ├── outputs/
